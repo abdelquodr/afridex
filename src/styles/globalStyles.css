@@ -1,0 +1,47 @@
+/* *********** USING BEM STYLING CONVENTION ****************** */
+* {
+  box-sizing: border-box;
+  font-family: Poppins;
+  font-style: normal;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smothing: grayscale;
+}
+
+.icons {
+  filter: contrast(200%);
+}
+
+.blue {
+  color: #039;
+}
+
+.bg-blue {
+  background-color: #039;
+}
+
+.black {
+  color: #000;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.links-margin {
+  margin-bottom: 0.8rem;
+}
+
+.ant-btn:hover,
+.ant-btn:focus,
+.ant-btn:active {
+  background-color: #003399 !important;
+  border: 2px solid transparent !important;
+}

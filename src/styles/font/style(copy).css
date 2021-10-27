@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Moderat';
+    src: local('Moderat  Black'), local('Moderat--Black'),
+        url('Moderat-Black.woff2') format('woff2'),
+        url('Moderat-Black.woff') format('woff'),
+        url('Moderat-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
